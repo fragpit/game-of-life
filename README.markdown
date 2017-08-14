@@ -8,7 +8,7 @@ The project is a simple multi-module Maven project. To build the whole project, 
 
 The application is a very simple online version of [Conway's 'game of life'](http://en.wikipedia.org/wiki/Conway's_Game_of_Life). To see what the game does, run `mvn install` as described above, thengo to the gameoflife-web directory and run `mvn jetty:run`. The application will be running on http://localhost:9090.
 
-[<img src="https://github.com/mlf4aiur/SublimeConfluence/blob/master/demo.gif?raw=true">](https://github.com/mlf4aiur/SublimeConfluence/blob/master/demo.gif?raw=true)
+[<img src="https://github.com/mlf4aiur/SublimeConfluence/blob/master/demo.gif?raw=true">](111)
 
 ## Running the acceptance tests
 
